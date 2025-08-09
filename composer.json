@@ -1,0 +1,11 @@
+{
+  "name": "skf/crm",
+  "description": "SKF DSA CRM - Starter",
+  "type": "project",
+  "require": {
+    "php": "^8.1",
+    "laravel/framework": "^10.0",
+    "fruitcake/laravel-cors": "^2.0",
+    "laravel/sanctum": "^3.0"
+  }
+}
